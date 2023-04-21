@@ -1,0 +1,36 @@
+- need of the model
+- graph/ table showing the road accident analysis of past years
+- how model can do it
+- how diff it is? it considers all the factors + does in real time
+- used in smart vehicles - future
+
+-definition of the all model
+   - Linear regression
+   - Multinomial naive bayes classification
+ 
+
+-formula of linear regression
+- SSr , SSb , SSe
+- Maths for multinomial naive bayes
+
+
+- describe the data
+     - column wise meaning of data
+
+- analysis of data
+    - how much does each column contributes to the target column
+Most articles consist of paragraphs and images (perhaps with other types of audiovisual media). However, articles may also be formatted as stand-alone lists or tables (not to be confused with disambiguation pages, which are purely navigation aids). These lists or tables are also considered articles for Wikipedia's purposes and are included in the Main/Article namespace, the one without a title prefix followed by a colon (:).
+
+The following items are not counted as articles (see also Wikipedia:Administration § Data structure and development):
+
+disambiguation pages,
+redirect pages,
+templates, including navboxes (aka navigation boxes),
+user pages,
+drafts,
+portals,
+talk pages (aka discussion pages),
+file pages for media such as images,
+category pages,
+help pages, and
+Wikipedia policies and guidelines pages (along with everything else in the Wikipedia: namespace).

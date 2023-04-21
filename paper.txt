@@ -1,0 +1,44 @@
+- need of the model
+- graph/ table showing the road accident analysis of past years
+- how model can do it
+- how diff it is? it considers all the factors + does in real time
+- used in smart vehicles - future
+
+-definition of the all model
+   - Linear regression
+   - Multinomial naive bayes classification
+ 
+
+-formula of linear regression
+- SSr , SSb , SSe
+- Maths for multinomial naive bayes
+
+
+- describe the data
+     - column wise meaning of data
+
+- analysis of data
+    - how much does each column contributes to the target column
+    - each column with the accident severity
+
+- changes done in the data
+     - removing of irrelevant data
+     - merging the data which was not done till now
+     - considered all conditions (weather, road, vehicle)
+     - removing null values - so that accuracy is not risked
+
+- flow of the model
+    -each step from preprocessing 
+    - flow  of the model for calculation
+    - for prediction tried variations:
+	- train and test set percent
+	- regression and classification model
+	- accuracy table of all
+
+- run the regression on the excel:
+    - calculate anova, error, score all in table form
+
+- flow of the model for prediction in real time
+    - with words
+    - flow chart
+   
