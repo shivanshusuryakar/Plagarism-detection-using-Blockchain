@@ -25651,7 +25651,7 @@ $('.image-upload-wrap').bind('dragover', function () {
 });
     </script>
 </head>
-<body>
+<body style="overflow:scroll;overflow-x:hidden;justify-content:center;align-items:center">
   <div class='wrap'>
   <div class='c'></div>
   <div class='c'></div>
@@ -25999,12 +25999,23 @@ $('.image-upload-wrap').bind('dragover', function () {
         </div>
       </div>
     </form>
+    
     </div>
     </div>
   </div>
   </center>
-  
-  
+  <div class="container" style="width:150%;margin:auto;position:relative;left:-25%">
+    <div class="widget">
+      <div class="section section-graph" style="height:40px;letter-spacing: 3px;">
+      <center><br>YOUR PAPER</center>
+      </div><br>
+      <div class="section sectio-info">
+        <div style="color:rgb(114, 206, 194);justify-content: space-between;padding:2px;margin:15px;font-weight: lighter;text-align:justify">
+          {{ plagarised_content | safe}}
+      </div>
+    </div>
+  </div>
+  <br><br>
 
 </body>
 </html>
